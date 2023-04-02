@@ -1,3 +1,3 @@
 Repo-session git(task1) readme
 
-Update in github.com
+Update of the readme, in github.com
